@@ -1,5 +1,14 @@
-
 # Chor Repository
+
+
+- Alle Chor-PDFs in einem Ordner: https://github.com/hovercat/tuchor-noten-pdf
+- Alle Chor-PDFs und MuseScore-Files in einem Ordner: https://github.com/hovercat/tuchor-noten-pdf-mscz
+- SharePoint-Klon nur mit PDFs: https://github.com/hovercat/tuchor-alle-noten-pdf
+- SharePoint-Klon mit PDFs und MuseSCore: https://github.com/hovercat/tuchor-alle-noten-pdf-mscz
+
+
+
+## Symlinkerstellung
 
 Wir ziehen aus dem Sharepoint hier die PDFs und auch die MuseScore-Files als Verknüpfung raus.
 Eine reine PDF-Sammlung ist hier: https://github.com/hovercat/tuchor-noten-pdf
