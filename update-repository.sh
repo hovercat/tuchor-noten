@@ -1,4 +1,4 @@
-./symlink-creator.sh _sharepoint tuchor-tuchor-alle-noten-pdf-mscz mscz pdf
+./symlink-creator.sh _sharepoint tuchor-alle-noten-pdf-mscz mscz pdf
 cd tuchor-alle-noten-pdf-mscz
 git add *
 git commit -m 'auto-update'
