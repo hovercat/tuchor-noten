@@ -3,8 +3,8 @@
 
 - Alle Chor-PDFs in einem Ordner: https://github.com/hovercat/tuchor-noten-pdf
 - Alle Chor-PDFs und MuseScore-Files in einem Ordner: https://github.com/hovercat/tuchor-noten-pdf-mscz
-- SharePoint-Klon nur mit PDFs: https://github.com/hovercat/tuchor-alle-noten-pdf
-- SharePoint-Klon mit PDFs und MuseSCore: https://github.com/hovercat/tuchor-alle-noten-pdf-mscz
+- Exakter SharePoint-Klon nur mit PDFs: https://github.com/hovercat/tuchor-alle-noten-pdf
+- Exakter SharePoint-Klon mit PDFs und MuseSCore: https://github.com/hovercat/tuchor-alle-noten-pdf-mscz
 
 
 
