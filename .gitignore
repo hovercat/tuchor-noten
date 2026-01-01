@@ -1,2 +1,5 @@
 _sharepoint/
-*.pdf
+**/*.pdf
+**/*.mscz
+**/*.jpeg
+**/*.jpg
