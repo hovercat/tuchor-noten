@@ -19,7 +19,7 @@ git commit -m 'auto-update'
 git push
 cd ..
 
-./link-flat.sh _sharepoint tuchor-noten-pdf pdf
+./link-flat.sh _sharepoint tuchor-noten-pdf pdf jpeg jpg png
 cd tuchor-noten-pdf
 git add *
 git commit -m 'auto-update'
